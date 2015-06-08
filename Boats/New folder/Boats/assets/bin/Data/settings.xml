@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <integer name="splash_mode">0</integer>
+  <bool name="hide_status_bar">True</bool>
+  <bool name="useObb">True</bool>
+  <bool name="3357e0c30014b3cc77ae57d4c33a6815">True</bool>
+</settings>
